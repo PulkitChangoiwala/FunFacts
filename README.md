@@ -1,2 +1,3 @@
 # FunFacts
-It is a small App Development project. Using this project i learnt basic app d terminologies, basic button functions, dynamic change in activities.
+
+It is a small App. It shows multiple facts each on new screen. Facts are shown randomly and next fact is shown when user clicks next button.
